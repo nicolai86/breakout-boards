@@ -4,4 +4,5 @@ a collection of breakout boards I designed to help me build my ergonomic keybard
 
 ### switches
 
-- [choc breakout board](./switches/choc)
+- [kailh-choc breakout board](./switches/choc)
+- [kailh-x breakout board](./switches/x)

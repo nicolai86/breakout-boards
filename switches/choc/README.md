@@ -1,4 +1,4 @@
-# hotswappable choc breakout board
+# hotswappable kailh choc breakout board
 
 a breakout board for kailh choc switches.
 
@@ -23,3 +23,4 @@ The keyboard matrix is setup for column to row scanning
 - 4x 470 O 0603 resistor
 - 2x 1x2 2.54mm pinheader
 - 4x 1N4148 0805 diodes
+- 4x kailh choc hotswap socket
