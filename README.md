@@ -1,6 +1,8 @@
 # breakout boards
 
-a collection of breakout boards I designed to help me build my ergonomic keybard, Ganymede.
+A collection of breakout boards I designed to help me build my ergonomic keybard, Ganymede.
+All breakout boards work and have been equiped with the necessary decoupling capacitors,
+resistors, and pinheaders.
 
 ### switches
 
