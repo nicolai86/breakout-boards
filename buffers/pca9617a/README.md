@@ -2,6 +2,8 @@
 
 a breakout board for the PCA9617A. The PCA supports voltage shifting, if desired; to easily hook up multiple devices all power and i2c lines are exposed multiple times
 
+[Gerber files](./pca9617a-v2.zip)
+
 ### top
 
 ![top](./pca9617a-v2-top.png)

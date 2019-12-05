@@ -6,6 +6,8 @@ layed out in a 2x2 matrix, with 17.05mm x 17.05mm spacing to fit regular kailh X
 
 The keyboard matrix is setup for column to row scanning
 
+[Gerber files](./x-matrix-v2.zip)
+
 ### top
 
 ![top](./x-matrix-v2-top.png)

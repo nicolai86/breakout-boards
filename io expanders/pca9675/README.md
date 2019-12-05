@@ -2,6 +2,8 @@
 
 a breakout board for the PCA9675. 
 
+[Gerber files](./pca9675-v2.zip)
+
 ### top
 
 ![top](./pca9675-v2-top.png)
