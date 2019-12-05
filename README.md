@@ -13,4 +13,4 @@ a collection of breakout boards I designed to help me build my ergonomic keybard
 
 ### i/o expanders
 
-- [PCA9675 breakout board](./io expanders/pca9675)
+- [PCA9675 breakout board](./io%20expanders/pca9675)
