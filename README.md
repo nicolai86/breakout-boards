@@ -10,3 +10,7 @@ a collection of breakout boards I designed to help me build my ergonomic keybard
 ### i2c buffers
 
 - [PCA9617A breakout board](./buffers/pca9617a)
+
+### i/o expanders
+
+- [PCA9675 breakout board](./io expanders/pca9675)
